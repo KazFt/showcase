@@ -5,12 +5,12 @@ A software developer needs to have tools. There are different tools for differen
 
 When the only tool you have is a hammer, every job looks like a nail.
 
-- Last Pass - Use this to store all your passwords.
+- ~~Last Pass - Use this to store all your passwords.~~
 
  -  Version Control - Git.             
 (Learn about what git is.)
 
-- Github - Create an account.
+- ~~Github - Create an account.~~
 
 - SSH - Need to install putty and create SSH Key and then save in lastpass.
 
@@ -22,7 +22,7 @@ Review style guides for indentation and neatness.
 Grammarly.
 
 ## Languages
-1. MarkDown
+1. ~~MarkDown~~
 2. PHP
 3. JS
 4. Golang
