@@ -44,7 +44,7 @@ Grammarly.
 + Heidi SQL
 
 ## Document Management
-+ Google Docs
++ ~~Google docs~~
 - Atlassian Confluence
 + Project Management
 - Trello
