@@ -7,8 +7,8 @@ When the only tool you have is a hammer, every job looks like a nail.
 
 - ~~Last Pass - Use this to store all your passwords.~~
 
- -  Version Control - Git.             
-(Learn about what git is.)
+ -  ~~Version Control - Git.~~             
+~~(Learn about what git is.)~~
 
 - ~~Github - Create an account.~~
 
@@ -18,8 +18,9 @@ When the only tool you have is a hammer, every job looks like a nail.
 Install sourcetree or equivalent for management.
 
 ## **Style**
+
 Review style guides for indentation and neatness.
-Grammarly.
+Grammarly. 
 
 ## Languages
 1. ~~MarkDown~~
