@@ -12,10 +12,10 @@ When the only tool you have is a hammer, every job looks like a nail.
 
 - ~~Github - Create an account.~~
 
-- SSH - Need to install putty and create SSH Key and then save in lastpass.
+- ~~SSH - Need to install putty and create SSH Key and then save in lastpass.~~
 
-- Bitbucket - Create an account
-Install sourcetree or equivalent for management.
+- ~~Bitbucket - Create an account~~
+~~Install sourcetree or equivalent for management.~~
 
 ## **Style**
 
@@ -28,13 +28,13 @@ Grammarly.
 3. JS
 4. Golang
 5. Python
-6. CSS
-7. HTML
+6. ~~CSS~~
+7. ~~HTML~~
 8. SQL
 
 ##  Code Editors 
 
-+ VS Code
++ ~~VS Code~~
 + Netbeans
 + BBEdit
 + Vi
@@ -47,7 +47,7 @@ Grammarly.
 + ~~Google docs~~
 - Atlassian Confluence
 + Project Management
-- Trello
+- ~~Trello~~
 + Jira
 
 
